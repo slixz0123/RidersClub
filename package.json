@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src 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"
+    "deploy": "gh-pages -d src"
   }
+  
 ,  
   "repository": {
     "type": "git",
